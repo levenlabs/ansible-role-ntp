@@ -38,6 +38,10 @@ ntp_config_broadcastclient: ''
 ntp_config_multicastclient: ''
 ntp_config_tinker_panic_enabled: ''
 ntp_config_ignore_wildcard: ''
+ntp_config_server_options: ''
+ntp_config_logconfig: ''
+ntp_config_tinker_step: ''
+ntp_config_tinker_stepout: ''
 
 # this doesn't need to be set if you're using ntp_leap_seconds_url
 ntp_config_leapfile: ''
